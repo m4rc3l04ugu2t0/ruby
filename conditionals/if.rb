@@ -5,6 +5,5 @@ if x === 10
 elsif x === 100
     puts "100"
 else 
-    puts false
-    
+    puts false 
 end
