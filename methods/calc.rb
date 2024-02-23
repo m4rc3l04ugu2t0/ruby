@@ -1,9 +1,7 @@
 def calc x, y, operation
-
     case operation
         when "sum"
-            x + y
-   
+            x + y  
         when "sub"
             x - y
         when "mult"
