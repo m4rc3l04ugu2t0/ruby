@@ -1,6 +1,5 @@
 names = ["Marcelo", "João", "Fulano"]
 
-
 count = 0
 
 while count < names.size

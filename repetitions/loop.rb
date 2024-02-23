@@ -1,7 +1,7 @@
 count = 1
 
 loop do 
-    puts  count
+    puts count
     if count == 10
         break
     end
