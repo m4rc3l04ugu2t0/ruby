@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 puts "Enter a number"
 x = gets.chomp.to_f
 puts "Enter other number"
