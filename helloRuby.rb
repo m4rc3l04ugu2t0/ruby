@@ -21,3 +21,5 @@ sorted_books = books.sort_by { |book| book[:pages] }
 # Exibindo os livros ordenados
 puts "Livros Ordenados pelo Número de Páginas:"
 sorted_books.each { |book| puts "#{book[:title]} - #{book[:author]} (#{book[:pages]} pages)" }
+
+p "sla"
